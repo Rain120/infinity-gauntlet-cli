@@ -1,7 +1,7 @@
-<h1 align="center">Infinity Gems</h1>
+<h1 align="center"><a href="https://github.com/Rain120/infinity-gems">Infinity Gems</a></h1>
 
 <div align="center">
   
-  The Infinity Gems (originally referred to as Soul Gems and later as Infinity Stones) are six gems appearing in Marvel Comics. The six gems are the Mind, Power, Reality, Soul, Space, and Time Gems. In later storylines, crossovers and other media, a seventh gem has also been included. The Gems have been used by various characters in the Marvel Universe.
+  The <b><a href="https://en.wikipedia.org/wiki/Infinity_Gems">Infinity Gems</a></b> from <b>marvel</b>. Means that I want to be a versatile tool. Come on, I can do that.💪💪💪
 
 </div>
