@@ -36,6 +36,6 @@ We welcome all contributions, please read our [CONTRIBUTING.md](https://github.c
 
 #### 📝 License
 
-[MIT](https://github.com/Rain120/rmc-ui/blob/master/LICENSE)
+[MIT](https://github.com/Rain120/infinity-gems/blob/master/LICENSE)
 
 Copyright © 2019-present [Rain120](https://github.com/Rain120).
