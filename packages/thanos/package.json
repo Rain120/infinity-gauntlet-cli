@@ -1,12 +1,34 @@
 {
   "name": "thanos",
-  "version": "1.0.1",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "version": "0.0.1",
+  "description": "Thanos",
+  "author": "Rain120 https://github.com/Rain120",
+  "homepage": "https://github.com/Rain120/infinity-gauntlet-cli#readme",
+  "license": "MIT",
+  "main": "bin/thanos.js",
+  "bin": {
+    "thanos": "bin/thanos.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rain120/infinity-gauntlet-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Rain120/infinity-gauntlet-cli/issues"
+  },
+  "dependencies": {
+    "commander": "^5.0.0",
+    "debug": "^4.1.1",
+    "leven": "^3.1.0",
+    "minimist": "^1.2.5",
+    "power-gem": "^0.0.1",
+    "space-gem": "^0.0.1"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^6.5.0",
+    "typescript": "^3.8.3"
+  }
 }

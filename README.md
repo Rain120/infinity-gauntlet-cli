@@ -1,14 +1,14 @@
-<h1 align="center"><a href="https://github.com/Rain120/infinity-gems">Infinity Gems</a></h1>
+<h1 align="center"><a href="https://github.com/Rain120/infinity-gauntlet-cli">Infinity Gauntlet</a></h1>
 
 <div align="center">
   
-  The <b><a href="https://en.wikipedia.org/wiki/Infinity_Gems">Infinity Gems</a></b> from <b>marvel</b>. Means that I want to be a versatile tool. Come on, I can do that.💪💪💪
+  The <b><a href="https://en.wikipedia.org/wiki/Infinity_Gems">Infinity Gauntlet</a></b> from <b>marvel</b>. Means that I want to be a versatile tool. Come on, I can do that.💪💪💪
 
 </div>
 
 ## 😚 Welcome
 
-Welcome to the **Infinity Gems**.
+Welcome to the **Infinity Gauntlet Cli**.
 
 </div>
 
@@ -16,13 +16,28 @@ Welcome to the **Infinity Gems**.
 
 - Learning how to publish multiple packages on one project
 
+#### 🗄 Composition
+
+![thanos.svg](./thanos.svg)
+
 #### 📦 Install
+
+⌨️ Fighting for it, please waiting.
 
 #### 🔨 Usage
 
+| Package              | Ability        |
+| -------------------- | -------------- |
+|    Soul Gem 灵魂宝石   |                |
+|    Time Gem 时间宝石   |                |
+|   Space Gem 空间宝石   |                |
+|    Mind Gem 心灵宝石   |                |
+| Reality Gem 现实宝石   |                |
+|   Power Gem 力量宝石   | 提供整个包需要通用方法 |
+
 #### 🤝 Contributing ![PR](https://img.shields.io/badge/PRs-Welcome-orange?style=flat-square&logo=appveyor)
 
-We welcome all contributions, please read our [CONTRIBUTING.md](https://github.com/Rain120/infinity-gems/tree/master/.github/CONTRIBUTING.md) first. You can submit any ideas as [pull requests](https://github.com/Rain120/infinity-gems/pulls) or as a GitHub [issue](https://github.com/Rain120/infinity-gems/issues). 
+We welcome all contributions, please read our [CONTRIBUTING.md](https://github.com/Rain120/infinity-gauntlet-cli/tree/master/.github/CONTRIBUTING.md) first. You can submit any ideas as [pull requests](https://github.com/Rain120/infinity-gauntlet-cli/pulls) or as a GitHub [issue](https://github.com/Rain120/infinity-gauntlet-cli/issues). 
 
 #### 🔗 Links
 
@@ -36,6 +51,6 @@ We welcome all contributions, please read our [CONTRIBUTING.md](https://github.c
 
 #### 📝 License
 
-[MIT](https://github.com/Rain120/infinity-gems/blob/master/LICENSE)
+[MIT](https://github.com/Rain120/infinity-gauntlet-cli/blob/master/LICENSE)
 
 Copyright © 2019-present [Rain120](https://github.com/Rain120).

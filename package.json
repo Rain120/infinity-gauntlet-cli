@@ -1,0 +1,57 @@
+{
+  "name": "infinity-gauntlet-cli",
+  "private": true,
+  "packages": [
+    "packages/*"
+  ],
+  "scripts": {
+    "lint-staged": "lint-staged",
+    "eslint": "eslint --fix --color --ext .ts packages/**",
+    "prettier": "prettier --write packages/**/**.ts",
+    "version": "lerna version --conventional-commits --yes && git add CHANGELOG.md",
+    "tsc": "lerna run tsc",
+    "bootstrap": "lerna bootstrap",
+    "clean": "lerna clean",
+    "lint": "lerna run lint",
+    "test": "lerna run test"
+  },
+  "lint-staged": {
+    "packages/**/**.{ts}": [
+      "npm run prettier",
+      "npm run eslint",
+      "git add"
+    ]
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": [
+        "lint-staged"
+      ],
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+    }
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^8.3.5",
+    "@commitlint/config-conventional": "^8.3.4",
+    "@types/jest": "^25.2.1",
+    "@types/node": "^12.12.34",
+    "@typescript-eslint/eslint-plugin": "^2.26.0",
+    "@typescript-eslint/parser": "^2.26.0",
+    "eslint": "^6.8.0",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-prettier": "^3.1.2",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1",
+    "execa": "^4.0.0",
+    "husky": "^4.2.3",
+    "jest": "^25.2.7",
+    "lerna": "^3.20.2",
+    "lint-staged": "^10.1.1",
+    "prettier": "^2.0.2",
+    "ts-jest": "^25.3.1",
+    "typescript": "^3.8.3"
+  },
+  "dependencies": {}
+}

@@ -1,0 +1,25 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "compilerOptions": {
+    "baseUrl": "./",
+    "target": "ES6",
+    "outDir": "./dist",
+    "declarationDir": "./dist/@types",
+    "typeRoots": [
+      "./typings",
+      "./node_modules/@types"
+    ],
+    "paths": {
+      "space-gem": [
+        "index.ts"
+      ]
+    }
+  },
+  "files": [
+    "index.ts"
+  ],
+  "include": [
+    "lib/**/*.ts",
+    "typings/**/*.d.ts",
+  ]
+}
