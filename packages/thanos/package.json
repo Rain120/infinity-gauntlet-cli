@@ -1,6 +1,6 @@
 {
   "name": "thanos",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Thanos",
   "author": "Rain120 https://github.com/Rain120",
   "homepage": "https://github.com/Rain120/infinity-gauntlet-cli#readme",
@@ -21,8 +21,8 @@
     "debug": "^4.1.1",
     "leven": "^3.1.0",
     "minimist": "^1.2.5",
-    "power-gem": "^0.0.1",
-    "space-gem": "^0.0.1"
+    "power-gem": "^0.0.2",
+    "space-gem": "^0.0.2"
   },
   "engines": {
     "node": ">=8"

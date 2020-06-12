@@ -1,6 +1,6 @@
 {
 	"name": "space-gem",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "space-gem",
 	"author": "Rain120",
 	"homepage": "https://github.com/Rain120/infinity-gauntlet-cli#readme",
@@ -25,7 +25,7 @@
 		"download-git-repo": "^3.0.2",
 		"fs-extra": "^9.0.0",
 		"inquirer": "^7.1.0",
-		"power-gem": "^0.0.1",
+		"power-gem": "^0.0.2",
 		"validate-npm-package-name": "^3.0.0"
 	},
 	"devDependencies": {
