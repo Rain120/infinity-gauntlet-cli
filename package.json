@@ -18,8 +18,7 @@
   "lint-staged": {
     "packages/**/**.{ts}": [
       "npm run prettier",
-      "npm run eslint",
-      "git add"
+      "npm run eslint"
     ]
   },
   "husky": {
