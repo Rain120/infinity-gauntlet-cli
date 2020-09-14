@@ -10,10 +10,11 @@
     "prettier": "prettier --write packages/**/**.ts",
     "version": "lerna version --conventional-commits --yes && git add CHANGELOG.md",
     "tsc": "lerna run tsc",
-    "bootstrap": "lerna bootstrap",
+    "bootstrap": "lerna bootstrap --hoist",
     "clean": "lerna clean",
     "lint": "lerna run eslint",
-    "test": "lerna run test"
+    "test": "lerna run test",
+    "postinstall": "npm run bootstrap"
   },
   "lint-staged": {
     "packages/**/**.{ts}": [
