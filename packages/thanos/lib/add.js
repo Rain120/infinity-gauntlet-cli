@@ -6,7 +6,7 @@
  */
 
 const { generateFile } = require('space-gem');
-const debug = require('debug')('infinity-gauntlet-cli:add');
+const debug = require('debug')('one-cli:add');
 
 function add(options = {}, context = process.cwd()) {
   debug(options)

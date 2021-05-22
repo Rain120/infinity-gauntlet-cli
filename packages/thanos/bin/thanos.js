@@ -79,7 +79,7 @@ program
           Binaries: ['Node', 'Yarn', 'npm'],
           Browsers: ['Chrome', 'Edge', 'Firefox', 'Safari'],
           npmPackages: '/**/{typescript,*gem*,*thanos*}',
-          npmGlobalPackages: ['Rain120/infinity-gauntlet-cli'],
+          npmGlobalPackages: ['Rain120/one-cli'],
         },
         {
           showNotFound: true,

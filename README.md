@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://github.com/Rain120/infinity-gauntlet-cli">Infinity Gauntlet</a></h1>
+<h1 align="center"><a href="https://github.com/Rain120/one-cli">Infinity Gauntlet</a></h1>
 
 <div align="center">
   
@@ -37,7 +37,7 @@ Welcome to the **Infinity Gauntlet Cli**.
 
 #### 🤝 Contributing ![PR](https://img.shields.io/badge/PRs-Welcome-orange?style=flat-square&logo=appveyor)
 
-We welcome all contributions, please read our [CONTRIBUTING.md](https://github.com/Rain120/infinity-gauntlet-cli/tree/master/.github/CONTRIBUTING.md) first. You can submit any ideas as [pull requests](https://github.com/Rain120/infinity-gauntlet-cli/pulls) or as a GitHub [issue](https://github.com/Rain120/infinity-gauntlet-cli/issues). 
+We welcome all contributions, please read our [CONTRIBUTING.md](https://github.com/Rain120/one-cli/tree/main/.github/CONTRIBUTING.md) first. You can submit any ideas as [pull requests](https://github.com/Rain120/one-cli/pulls) or as a GitHub [issue](https://github.com/Rain120/one-cli/issues). 
 
 #### 🔗 Links
 
@@ -51,6 +51,6 @@ We welcome all contributions, please read our [CONTRIBUTING.md](https://github.c
 
 #### 📝 License
 
-[MIT](https://github.com/Rain120/infinity-gauntlet-cli/blob/master/LICENSE)
+[MIT](https://github.com/Rain120/one-cli/blob/main/LICENSE)
 
 Copyright © 2019-present [Rain120](https://github.com/Rain120).

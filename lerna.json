@@ -5,7 +5,7 @@
     "packages/*"
   ],
   "changelog": {
-    "repo": "rain120/infinity-gauntlet-cli",
+    "repo": "rain120/one-cli",
     "labels": {
       "PR: New Feature": ":rocket: New Features",
       "PR: Breaking Change": ":boom: Breaking Changes",
